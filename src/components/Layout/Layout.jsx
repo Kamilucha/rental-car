@@ -8,7 +8,7 @@ return <div>
     <Header>
         <HeaderContainer>
          <Nav>
-           <NavLink to="/">Home</NavLink>
+           <NavLink to="/catalog">Catalog</NavLink>
            <NavLink to="/favorites">Favorites</NavLink>
          </Nav>
         </HeaderContainer>
